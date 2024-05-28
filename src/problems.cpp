@@ -196,7 +196,7 @@ std::string decode(const std::string &str) {
 
 std::unordered_set<std::string> bananas(const std::string& s) {
     // your code here
-    return {};
+    return 0;
 }
 
 // ********************************************************************************************************
